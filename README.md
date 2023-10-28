@@ -3,6 +3,9 @@
 Dataset ini disediakan dengan murah hati oleh Olist, department store terbesar di pasar Brasil. Olist menghubungkan usaha kecil dari seluruh Brasil ke saluran tanpa kerumitan dan dengan satu kontrak. Para pedagang tersebut dapat menjual produk mereka melalui Olist Store dan mengirimkannya langsung ke pelanggan menggunakan mitra logistik Olist. Lihat lebih lanjut di situs web kami: www.olist.com
 link : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
+## Demo Dashboard
+Link https://5myappfj3zzgfpaojsztxsg.streamlit.app/
+
 ## Menentukan Pertanyaan Bisnis
 1. Berapa total pendapatan penjualan selama periode dataset ini (2016-2018) ?
 2. Kota mana yang paling banyak Customer bertransaksi?
