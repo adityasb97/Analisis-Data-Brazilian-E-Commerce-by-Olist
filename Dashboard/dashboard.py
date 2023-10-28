@@ -15,7 +15,7 @@ pd.options.display.max_columns = None
 st.set_page_config(layout='wide')
 st.header(':bar_chart: Dashboard Brazilian E-Commerce', divider='blue', anchor='center')
 
-df = pd.read_csv('main_data.csv')
+df = pd.read_csv('Dashboard/main_data.csv')
 all_data = df.copy()
 
 # ------------------side bar------------------
