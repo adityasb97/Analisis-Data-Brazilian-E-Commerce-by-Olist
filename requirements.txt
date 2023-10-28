@@ -4,7 +4,7 @@ matplotlib==3.7.1
 seaborn==0.12.2
 streamlit
 datetime
-calender
+callender
 babel
 plotly
 
