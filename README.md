@@ -39,10 +39,10 @@ langkah-langkah instalasi proyek ini :
 2. Buka browser dan akses aplikasi melalui alamat URL yang ditampilkan.
 
 ## screenshot
-![screenshot](screenshoot\sc1.png)
-![screenshot](screenshoot\sc2.png)
-![screenshot](screenshoot\sc3.png)
-![screenshot](screenshoot\sc5.png)
-![screenshot](screenshoot\sc6.png)
+![screenshot](screenshoot/sc1.png)
+![screenshot](screenshoot/sc2.png)
+![screenshot](screenshoot/sc3.png)
+![screenshot](screenshoot/sc5.png)
+![screenshot](screenshoot/sc6.png)
 
 
